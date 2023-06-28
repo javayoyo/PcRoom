@@ -3,17 +3,18 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/javayoyo/PcRoom/assets/127707560/7cf4be72-8f37-4143-ac61-842fa113065b">
+  <img src="https://github.com/javayoyo/PCRoom/assets/127707560/7cf4be72-8f37-4143-ac61-842fa113065b">
 </p>
 
 ---
 ## 🎲 introduce
-- " Q Pc Room " : 인천일보아카데미 - 코드공유좀'해'조 파이널 프로젝트 <br>
+- " Q PC Room " : 인천일보아카데미 - 코드공유좀'해'조 파이널 프로젝트 <br>
 - 개발기간 : 2023.06.16 ~ 2023.07.21
 ---
   
 ## 🔗 Link
-- **Benchmark :** Battle Zone PC program
+- **Benchmark 1 :** Battle Zone PC program
+- **Benchmark 2 :** https://github.com/MenOfSillim/spring-pcria-project
 - **Github Repository :** 우리 파이널 깃허브사이트 넣기
 
 ---
