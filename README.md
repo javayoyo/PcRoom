@@ -1,5 +1,9 @@
-# 🕹 Q Pc Room 🎮
----
+<div align="center">
+
+<h1 style="font-size: 100px">🕹 Q Pc Room 🎮</h1>
+
+</div>
+
 <p align="center">
   <img src="https://github.com/javayoyo/PcRoom/assets/127707560/7cf4be72-8f37-4143-ac61-842fa113065b">
 </p>
