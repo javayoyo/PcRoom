@@ -1,7 +1,5 @@
-<div align="center">
-
-<h1 style="font-size: 100px">🕹 Q Pc Room 🎮</h1>
-
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=🕹%Q%Pc%Room%🎮&fontSize=60" />	
 </div>
 
 <p align="center">
