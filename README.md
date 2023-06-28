@@ -1,27 +1,25 @@
-<div align=center fontSize=90> 
-🕹 Q Pc Room 🎮
-</div>
+# 🕹 Q Pc Room 🎮
+---
+
+## 🎲 introduce
+- " Q Pc Room " : 인천일보아카데미 - 코드공유좀'해'조 파이널 프로젝트 <br>
+- 개발기간 : 2023.06.16 ~ 2023.07.21
 
 ---
+  
 ## 🔗 Link
 - **Deploy Site :** 벤치마킹 및 참고사이트 찾아서 넣기
 - **Github Repository :** 우리 파이널 깃허브사이트 넣기
 
 ---
 
-## 📖 Summary
-> ```👇 Click here ```
+## 🏃 Summary
+> ```👇 Click here !  ```
 >  - [🎲 Introduce](#-introduce)
 >  - [💡 Motivation](#-motivation)
 >  - [🌟 Features](#-features)
 >  - [🛠 Stack](#-stack)
->  - [👨‍💻 Team Member](#-team-member)
-#
-* * *
-#
-## 🎲 introduce
-" Q Pc " :  인천일보아카데미 - 코드공유좀'해'조 파이널 프로젝트 <br>
-2023.06.16 ~ 2023.07.21
+>  - [👨‍💻 Team Engineer](#-team-engineer)
 
 ---
 
@@ -38,7 +36,17 @@
 ---
 
 ## 🌟 Features
-- Google, Kakao 소셜 로그인
+< spring Security 사용 > <br>
+😊 Member Authority
+- Google, Kakao 소셜 로그인   
+- 시간 충전
+- 좌석 이동
+- 먹거리 장바구니 및 주문하기
+- 회원정보 마이페이지
+- WebSocket 호출, 1대1 채팅 <br>
+😎 Admin Authority
+- 
+
 
 
 
@@ -53,7 +61,6 @@
 
 ### 🌱 Development
 <div align=left>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -73,13 +80,13 @@
 ### 🌱 Open API
 - Google Login API
 - Kakao Login API
-- 이메일인증 API 
+- Email Certification API 
 - chat API
   <br>
 
 ---
 
-## 👨‍💻 Team Member
+## 👨‍💻 Team Engineer
 - 하소이 : https://github.com/soyiss
 - 김유진 : https://github.com/javayoyo
 - 이신욱 : https://github.com/swknjj
