@@ -8,7 +8,7 @@
 ---
   
 ## 🔗 Link
-- **Deploy Site :** 벤치마킹 및 참고사이트 찾아서 넣기
+- **Benchmark :** Battle Zone PC program
 - **Github Repository :** 우리 파이널 깃허브사이트 넣기
 
 ---
@@ -31,10 +31,10 @@
 ---
 
 ## 🎖 function
-< spring Security 사용 > <br>
+< 🔑 spring Security 사용 > <br>
 
 😊 'Member' Authority
-- Google, Kakao 소셜 로그인   
+- Kakao QR 소셜 로그인   
 - 시간 충전
 - 좌석 이동
 - 먹거리 장바구니 및 주문하기
@@ -42,15 +42,19 @@
 - WebSocket 호출, 1대1 채팅 <br>
 
 😎 'Admin' Authority
-- 회원목록
-- 
-
+- 회원목록 관리
+- 블랙리스트 관리
+- 상품 관리
+- 게임 관리
+- WebSocket 좌석현황
+- 매출 관리
 
 ---
 
 ## 🛠 Stack
 ### 🌱 Environment
 <div align=left>
+  <img src="https://img.shields.io/badge/intelliJ-CC6699?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-654FF0?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
@@ -58,8 +62,8 @@
 ### 🌱 Development
 <div align=left>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-34E27A?style=flat&logo=JavaScript&logoColor=white" /> 
 </div>
 
@@ -74,8 +78,8 @@
 </div>
 
 ### 🌱 Open API
-- Google Login API
-- Kakao Login API
+- Kakao QR Login API
+- KakaoPay API
 - Email Certification API 
 - chat API
   <br>
@@ -85,7 +89,7 @@
 ## 👨‍💻 Team Engineer
 - (captain) 🐹 하소이 : https://github.com/soyiss 
 - (engineer) 🦁 김유진 : https://github.com/javayoyo
-- (engineer) 🐻‍❄️ 이신욱 : https://github.com/swknjj
+- (engineer) 🐼 이신욱 : https://github.com/swknjj
 - (engineer) 🐱 이예진 : https://github.com/Kongsis 
 - (engineer) 🐰 정다빈 : https://github.com/babinhi
 
