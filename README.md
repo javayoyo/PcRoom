@@ -13,9 +13,8 @@
 
 ---
 
-## 🏃 Summary
-> ```👇 Click here !  ```
->  - [🎲 Introduce](#-introduce)
+## 👇 Click here !
+>
 >  - [💡 Motivation](#-motivation)
 >  - [🌟 Features](#-features)
 >  - [🛠 Stack](#-stack)
@@ -26,12 +25,7 @@
 ## 💡 motivation
 <피씨방 프로젝트>
 
-- 회원제 피씨방으로 요금충전하여 잔여 시간동안 피씨방을 이용할 수 있습니다.
--  
-- 
-- 웹소켓을 사용하여 호출 및 1대1 채팅을 
-- 스프링 시큐리티를 통해 보안강화를 하였습니다.
-
+제작동기 및 벤치마킹 쓰기
   
 ---
 
@@ -44,10 +38,9 @@
 - 먹거리 장바구니 및 주문하기
 - 회원정보 마이페이지
 - WebSocket 호출, 1대1 채팅 <br>
+
 😎 Admin Authority
 - 
-
-
 
 
 ---
