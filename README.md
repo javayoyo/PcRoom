@@ -13,25 +13,27 @@
 
 ---
 
-## 👇 Click here !
+## 👇 ======== Click here ! =========
 >
->  - [💡 Motivation](#-motivation)
->  - [🌟 Features](#-features)
+>  - [💭 Motivation](#-motivation)
+>  - [🎖 Function](#-function)
 >  - [🛠 Stack](#-stack)
 >  - [👨‍💻 Team Engineer](#-team-engineer)
+## ==========================👆
 
 ---
 
-## 💡 motivation
+## 💭 motivation
 <피씨방 프로젝트>
 
 제작동기 및 벤치마킹 쓰기
   
 ---
 
-## 🌟 Features
+## 🎖 function
 < spring Security 사용 > <br>
-😊 Member Authority
+
+😊 'Member' Authority
 - Google, Kakao 소셜 로그인   
 - 시간 충전
 - 좌석 이동
@@ -39,7 +41,8 @@
 - 회원정보 마이페이지
 - WebSocket 호출, 1대1 채팅 <br>
 
-😎 Admin Authority
+😎 'Admin' Authority
+- 회원목록
 - 
 
 
@@ -80,11 +83,11 @@
 ---
 
 ## 👨‍💻 Team Engineer
-- (captain) 하소이 : https://github.com/soyiss 
-- (engineer) 김유진 : https://github.com/javayoyo
-- (engineer)이신욱 : https://github.com/swknjj
-- (engineer)이예진 : https://github.com/Kongsis 
-- (engineer)정다빈 : https://github.com/babinhi
+- (captain) 🐹 하소이 : https://github.com/soyiss 
+- (engineer) 🦁 김유진 : https://github.com/javayoyo
+- (engineer) 🐻‍❄️ 이신욱 : https://github.com/swknjj
+- (engineer) 🐱 이예진 : https://github.com/Kongsis 
+- (engineer) 🐰 정다빈 : https://github.com/babinhi
 
 ---
 
