@@ -1,28 +1,25 @@
-### Q Pc
-===
-* * *
-<br><br/>
+<div align=center> 
+🕹 Q Pc Room 🎮
+</div>
 
-
-
-<br><br/>
+---
 ## 🔗 Link
-- **Deploy Site : ** 벤치마킹사이트  
-
-- **Github Repository :** 깃허브사이트
-
+- **Deploy Site :** 벤치마킹 및 참고사이트 찾아서 넣기
+- **Github Repository :** 우리 파이널 깃허브사이트 넣기
 
 <br><br/>
+
 ## 📖 Summary
-> ```Introduce Project```
+> ```Click here```
+>  - [✨ Introduce](#-introduce)
 >  - [💡 Motivation](#-motivation)
->  - [📌 Features](#-features)
+>  - [🌟 Features](#-features)
 >  - [🛠 Stack](#-stack)
->  - [🧑 Team Member](#-team-member)
+>  - [👨‍💻 Team Member](#-team-member)
 #
 * * *
 #
-# introduce
+## 🎲 introduce
 " Q Pc " :  인천일보아카데미 - 코드공유좀'해'조 파이널 프로젝트
 2023.06.16 ~ 2023.07.21
 <br><br/>
@@ -36,23 +33,26 @@
 - 스프링 시큐리티를 통해 보안강화를 하였습니다.
 - 
 <br><br/>
-## 📌 Features
+## 🌟 Features
 - Google, Kakao 소셜 로그인
 
 
 
   <br><br/>
 ## 🛠 Stack
-### 🔭 Front-End
+### 🔭 Environment
+<img src="https://img.shields.io/badge/Java-654FF0?style=flat-square&logo=Java&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+
+
+### 🔭 Development
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-34E27A?style=flat&logo=JavaScript&logoColor=white" /> 
-
-
-### 🔭 Back-End
-<img src="https://img.shields.io/badge/Java-654FF0?style=flat-square&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=SpringBoot&logoColor=white" />
 
 ### 🔭 DataBase
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -69,15 +69,15 @@
 
 <br><br/>
 
-## 🧑 Team Member
--  하소이 : 
-- 김유진 :
-- 이신욱 :
-- 이예진 : 
-- 정다빈 : 
+## 👨‍💻 Team Member
+- 하소이 : https://github.com/soyiss
+- 김유진 : https://github.com/javayoyo
+- 이신욱 : https://github.com/swknjj
+- 이예진 : https://github.com/Kongsis 
+- 정다빈 : https://github.com/babinhi
 <br><br/>
 
-## 📚 sql
+## 📚 SQL
 ```sql
 create user user_QPc@localhost identified by '1234';
 create database db_QPc;
