@@ -80,11 +80,11 @@
 ---
 
 ## 👨‍💻 Team Engineer
-- 하소이 : https://github.com/soyiss
-- 김유진 : https://github.com/javayoyo
-- 이신욱 : https://github.com/swknjj
-- 이예진 : https://github.com/Kongsis 
-- 정다빈 : https://github.com/babinhi
+- (captain) 하소이 : https://github.com/soyiss 
+- (engineer) 김유진 : https://github.com/javayoyo
+- (engineer)이신욱 : https://github.com/swknjj
+- (engineer)이예진 : https://github.com/Kongsis 
+- (engineer)정다빈 : https://github.com/babinhi
 
 ---
 
