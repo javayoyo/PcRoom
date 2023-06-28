@@ -1,10 +1,13 @@
 # 🕹 Q Pc Room 🎮
 ---
+<p align="center">
+  <img src="https://github.com/javayoyo/PcRoom/assets/127707560/7cf4be72-8f37-4143-ac61-842fa113065b">
+</p>
 
+---
 ## 🎲 introduce
 - " Q Pc Room " : 인천일보아카데미 - 코드공유좀'해'조 파이널 프로젝트 <br>
 - 개발기간 : 2023.06.16 ~ 2023.07.21
-
 ---
   
 ## 🔗 Link
