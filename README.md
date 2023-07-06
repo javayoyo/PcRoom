@@ -15,7 +15,7 @@
 ## 🔗 Link
 - **Benchmark 1 :** Battle Zone PC program
 - **Benchmark 2 :** https://github.com/MenOfSillim/spring-pcria-project
-- **Github Repository :** 우리 파이널 깃허브사이트 넣기
+- **Github Repository :** https://github.com/soyiss/Qpc
 
 ---
 
@@ -40,7 +40,9 @@
 < 🔑 spring Security 사용 > <br>
 
 😊 'Member' Authority
-- Kakao QR 소셜 로그인   
+- Kakao QR 소셜 로그인
+- NAVER 소셜 로그인
+- Gogle 소셜 로그인   
 - 시간 충전
 - 좌석 이동
 - 먹거리 장바구니 및 주문하기
@@ -85,9 +87,10 @@
 
 ### 🌱 Open API
 - Kakao QR Login API
+- Naver Login API
+- Gogle Login API
 - KakaoPay API
 - Email Certification API 
-- chat API
   <br>
 
 ---
